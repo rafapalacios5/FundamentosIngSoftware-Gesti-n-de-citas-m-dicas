@@ -21,6 +21,6 @@ La clínica San José desea automatizar la gestión de sus citas médicas. Los p
 |----------------|-------------|------|
 | 📄 Documento PDF | Entregable | [Entregable Tarea Semana 07](Entregable%20Tarea%20Semana%2007.pdf) |
 | Archivo Java | Programación del modelo de clases y secuencia (agendar cita) | [Implementación en java](semana07FundamentosIng/) |
-| Proyecto EA | Proyecto creado en Enterprise Architect | `EA/Proyecto_Modelado.eap` |
+| Proyecto EA | Proyecto creado en Enterprise Architect | [Diagramas en Enterprise Architect](tareaSemana7.eapx) |
 
 ---
