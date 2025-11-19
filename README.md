@@ -1,5 +1,5 @@
 # Fundamentos de Ingeniería de Software  
-## Tarea: *Tarea Semana 07: Casos de uso, Clases, relaciones y secuencia*
+## Tarea Semana 07: Casos de uso, Clases, relaciones y secuencia
 
 ---
 
