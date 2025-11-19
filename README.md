@@ -19,7 +19,7 @@ La clínica San José desea automatizar la gestión de sus citas médicas. Los p
 
 | Tipo de archivo | Descripción | Ruta |
 |----------------|-------------|------|
-| Documento PDF | Contiene el análisis solicitado | `documento/Tarea1_Analisis.pdf` |
+| 📄 Documento PDF | Entregable de la Semana 07 | `Entregable Tarea Semana 07.pdf` |
 | Archivo Java | Implementación de la clase requerida | `codigo/ClaseEjemplo.java` |
 | Proyecto EA | Proyecto creado en Enterprise Architect | `EA/Proyecto_Modelado.eap` |
 
